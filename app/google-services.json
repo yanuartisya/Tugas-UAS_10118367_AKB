@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66949017642",
+    "firebase_url": "https://peta-322402-default-rtdb.firebaseio.com",
+    "project_id": "peta-322402",
+    "storage_bucket": "peta-322402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66949017642:android:a9c2b60cc4a7dc8f281353",
+        "android_client_info": {
+          "package_name": "com.mario.gonzaga_10118390.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66949017642-4sc22imkut64gpmdp97s6od78m8ajjn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5jSECAH09nZ0c-GyxXuRC9vh9WVuIL6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66949017642-4sc22imkut64gpmdp97s6od78m8ajjn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

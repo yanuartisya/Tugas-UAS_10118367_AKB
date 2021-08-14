@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Katakan Peta</string>
+
+    <string name="food">SELAMAT DATANG</string>
+    <string name="delivery">TEMUKAN LOKASINYA</string>
+    <string name="payment">PROFILE DEVELOPER</string>
+
+    <string name="lorem">Aplikasi Pariwisata Bandung Ini Dibuat Dengan beberapa Fungsi.</string>
+    <string name="lorem2">Menyediakan Peta Digital Lokasi Wisata Di Daerah Bandung Raya.</string>
+    <string name="lorem3">Menyediakan Fitur Profile Agar User Lebih Mengenal Developer.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
